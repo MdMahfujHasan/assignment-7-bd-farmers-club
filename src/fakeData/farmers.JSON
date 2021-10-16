@@ -1,0 +1,152 @@
+[
+    {
+        "key": "1",
+        "name": "Asif Ahmed",
+        "experience": "good",
+        "age": 55,
+        "type": "Grain, Flour",
+        "field": 10,
+        "earning": 29000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/65/Farmer_of_Bangladesh.jpg"
+    },
+    {
+        "key": "2",
+        "name": "Araf Hasan",
+        "experience": "very good",
+        "age": 50,
+        "type": "Mango, Banana, Pineapple",
+        "field": 15,
+        "earning": 68000,
+        "img": "https://live.staticflickr.com/5497/9038087312_586fd97cf1_b.jpg"
+    },
+    {
+        "key": "3",
+        "name": "Tamim Hasan",
+        "experience": "average",
+        "age": 48,
+        "type": "Grain",
+        "field": 9,
+        "earning": 25000,
+        "img": "https://res.cloudinary.com/devex/image/fetch/c_scale,f_auto,q_auto,w_720/https://lh6.googleusercontent.com/eb2ogJh4Op8odsuLLnoBHKd3ATHp8LRaw-9b0oDyPaZ2tMfn6f9oNzDKROLjMGaSRwt__g-m0mn1MMM7Ixj5wIpnixIJ51qlvhCTpMVxFA_mT0-pO55CNGXhSY6JESukPoImOEqq"
+    },
+    {
+        "key": "4",
+        "name": "Munshi Ali",
+        "experience": "good",
+        "age": 35,
+        "type": "Grain, Potato",
+        "field": 12,
+        "earning": 51000,
+        "img": "https://www.usaid.gov/sites/default/files/styles/732_width/public/nodeimage/Bangladesh_-_Rice_Farmer.jpg?itok=fj7hy6xq"
+    },
+    {
+        "key": "5",
+        "name": "Nazim Uddin Khan",
+        "experience": "below average",
+        "age": 42,
+        "type": "Flour, Onion, Garlic, Ginger",
+        "field": 11,
+        "earning": 44000,
+        "img": "https://news.cornell.edu/sites/default/files/styles/full_size/public/2020-05/0529_eggplant2.jpg?itok=8uNQXMXn"
+    },
+    {
+        "key": "6",
+        "name": "Sajib Howlader",
+        "experience": "excellent",
+        "age": 63,
+        "type": "Pui sakh, Lal sakh, Kochu salkh, Lau sakh",
+        "field": 23,
+        "earning": 27000,
+        "img": "https://i1.wp.com/securingwaterforfood.org/wp-content/uploads/2017/12/187.jpg?fit=3456%2C2304&ssl=1"
+    },
+    {
+        "key": "7",
+        "name": "Dulal Khan",
+        "experience": "bad",
+        "age": 49,
+        "type": "Apple, Avocado, Orange",
+        "field": 3,
+        "earning": 13000,
+        "img": "https://lh3.googleusercontent.com/proxy/F_0a5j8C80AhcPXmEUvdbEvKloxBS52DkrKp8q-EgNchPQeYPwoeVPB5HvJ7ShARIIwwmx6JfvRrjBKfGR0m4kcqwKXjsXKNMRk-d9-MNa7SIkJNTofqp_JonAkOGe2QMg"
+    },
+    {
+        "key": "8",
+        "name": "Akbor Ali",
+        "experience": "very good",
+        "age": 28,
+        "type": "Cow milk, Goat milk",
+        "field": 14,
+        "earning": 54000,
+        "img": "https://www.usaid.gov/sites/default/files/styles/732_width/public/nodeimage/Bangladesh_Ag-RiceFarm.jpg"
+    },
+    {
+        "key": "9",
+        "name": "Mizanur Naib",
+        "experience": "bad",
+        "age": 59,
+        "type": "corn",
+        "field": 8,
+        "earning": 9000,
+        "img": "https://allianceforscience.cornell.edu/wp-content/uploads/2018/02/Harvesting-non-Bt-brinjal-from-his-cousins-field.png"
+    },
+    {
+        "key": "10",
+        "name": "Hasan Khan",
+        "experience": "average",
+        "age": 70,
+        "type": "Potato, Banana, Cow milk",
+        "field": 13,
+        "earning": 33000,
+        "img": "https://live.staticflickr.com/5716/22623800143_1d8c1a2f47_b.jpg"
+    },
+    {
+        "key": "11",
+        "name": "Mustafa Kabir",
+        "experience": "very good",
+        "age": 25,
+        "type": "Grain, Flour, Goat milk, Lau sakh",
+        "field": 18,
+        "earning": 60000,
+        "img": "https://www.researchgate.net/profile/Md-Zulfikar-Prodhan/publication/333668320/figure/fig6/AS:767804739448832@1560070323125/Bangladeshi-Bt-brinjal-farmer-Shahajahan-Ali-with-harvested-Bt-brinjal-Photograph.png"
+    },
+    {
+        "key": "12",
+        "name": "Uzzal Hasan",
+        "experience": "excellent",
+        "age": 30,
+        "type": "Mango, Banana, Orange",
+        "field": 24,
+        "earning": 70000,
+        "img": "https://t1.thpservices.com/previewimage/gallil/6c54aa201d5b9689ce7b0daf9ac9153b/pbg-pb110593.jpg"
+    },
+    {
+        "key": "13",
+        "name": "Salam Mia",
+        "experience": "below average",
+        "age": 51,
+        "type": "Lal sakh, Pui sakh",
+        "field": 16,
+        "earning": 10000,
+        "img": "https://image.shutterstock.com/image-photo/jessore-bangladeshnovember-12-2016-bangladeshi-260nw-764369269.jpg"
+    },
+    {
+        "key": "14",
+        "name": "Abul Chowdhury",
+        "experience": "bad",
+        "age": 67,
+        "type": "Grain",
+        "field": 7,
+        "earning": 5000,
+        "img": "https://media.istockphoto.com/photos/asian-farmer-with-his-two-sons-standing-between-his-fields-picture-id1304382918?k=20&m=1304382918&s=612x612&w=0&h=8h_rUqjWKgLXbNWDFZm4ZBzdJKaHxJnsocOZ6hd9SH0="
+    },
+    {
+        "key": "15",
+        "name": "Kazi Hasan Ullah Motaleb",
+        "experience": "excellent",
+        "age": 75,
+        "type": "Grain, Flour, Mango, Potato, Cow milk",
+        "field": 30,
+        "earning": 75000,
+        "img": "https://thumbs.dreamstime.com/b/farmer-farmer-works-cabbage-field-dumuria-khulna-bangladesh-124332617.jpg"
+    }
+]

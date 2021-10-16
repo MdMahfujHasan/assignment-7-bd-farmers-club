@@ -1,0 +1,7 @@
+.farmers-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 30px;
+    padding: 10px;
+}

@@ -1,0 +1,12 @@
+.list-title{
+    color: white;
+    background-color: darkgreen;
+
+}
+.farmers-list{
+    border: 1px solid black;
+    width: 30%;
+    margin: auto;
+    margin-top: 10px;
+    background-image: linear-gradient(to bottom, lightgreen, white);
+}

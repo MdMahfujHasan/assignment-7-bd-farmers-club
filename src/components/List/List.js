@@ -10,7 +10,7 @@ const List = (props) => {
             farmer.quantity = 1;
         }
         farmersAdded = farmersAdded + farmer.quantity;
-        totalEarning = totalEarning + farmer.earning * farmersAdded;
+        totalEarning = totalEarning + farmer.earning;
     }
     return (
         <div className="farmers-list">
